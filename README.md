@@ -11,3 +11,7 @@ More details can be found in the Cart Pole notebook.
 ## Mountain Car
 Moving on to Mountain Car: 
 <div style="text-align:center"><img src="./img/MountainCar_Agent.gif" width="500"/></div>
+
+## Lunar Lander
+This agent can land on the moon with just one hidden layer of 50 nodes! 
+<div style="text-align:center"><img src="./img/LunarLander_Agent.gif" width="500"/></div>
